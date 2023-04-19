@@ -32,6 +32,8 @@ body {
 
 .about-section-p {
   flex: 1;
+  line-height: 37px;
+  font-size: 22px;
 }
 
 .about-image {
