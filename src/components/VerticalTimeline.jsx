@@ -11,69 +11,88 @@ const VerticalTimeline = () => {
   return (
     <div className="timeline">
       <div className="container left">
-        <div className="date">15 Dec</div>
+        <div className="date">Jan 2020 - Present</div>
         <FontAwesomeIcon icon={faBriefcase} size="xs" className="icon" />
         <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
+          <h2>Yapı Kredi Bank</h2>
+          <h3>Frontend Developer</h3>
+          <ul>
+            <li>
+              Developing and maintaining product with java and Angularjs using
+              RESTful APIs.
+            </li>
+            <li>Using GIT and Bitbucket for versioning.</li>
+            <li>Working in an agile environment.</li>
+            <li>Self learning React.js</li>
+          </ul>
         </div>
       </div>
       <div className="container right">
-        <div className="date">22 Oct</div>
-        <i className="icon fa fa-gift"></i>
+        <div className="date">Mar 2017 - Jan 2020</div>
+        <FontAwesomeIcon icon={faBriefcase} size="xs" className="icon" />
         <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
+          <h2>Yapı Kredi Bank</h2>
+          <h3>Software Developer(ITSM Consultant)</h3>
+          <ul>
+            <li>
+              Created backend processes using automation and workflow
+              third-party tools with pure Javascript, HTML/CSS, powershell, SQL,
+              SOAP/REST API
+            </li>
+            <li>Created frontend forms with third-party tools for customers</li>
+            <li>
+              Maintained third-party tools, created reports, analyzed customer's
+              need and developed workflows
+            </li>
+          </ul>
         </div>
       </div>
       <div className="container left">
-        <div className="date">10 Jul</div>
-        <i className="icon fa fa-user"></i>
+        <div className="date">Mar 2016 - Mar 2017</div>
+        <FontAwesomeIcon icon={faBriefcase} size="xs" className="icon" />
         <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
+          <h2>BT Bilgi Technology</h2>
+          <h3>Software Developer(ITSM Consultant)</h3>
+          <ul>
+            <li>
+              Created backend processes using automation and workflow
+              third-party tools with pure Javascript, HTML/CSS, powershell, SQL,
+              SOAP/REST API
+            </li>
+            <li>Created frontend forms with third-party tools for customers</li>
+            <li>
+              Maintained third-party tools, created reports, analyzed customer's
+              need and developed workflows
+            </li>
+          </ul>
         </div>
       </div>
       <div className="container right">
-        <div className="date">18 May</div>
-        <i className="icon fa fa-running"></i>
+        <div className="date">Aug 2012 - Mar 2016</div>
+        <FontAwesomeIcon icon={faBriefcase} size="xs" className="icon" />
         <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
+          <h2>Odya Technology</h2>
+          <h3>Software Developer(ITSM Consultant)</h3>
+          <ul>
+            <li>
+              Created backend processes using automation and workflow
+              third-party tools with pure Javascript, HTML/CSS, powershell, SQL,
+              SOAP/REST API
+            </li>
+            <li>Created frontend forms with third-party tools for customers</li>
+            <li>
+              Maintained third-party tools, created reports, analyzed customer's
+              need and developed workflows
+            </li>
+          </ul>
         </div>
       </div>
       <div className="container left">
-        <div className="date">10 Feb</div>
-        <i className="icon fa fa-cog"></i>
+        <div className="date">Sep 2008 - Jun 2012 </div>
+        <FontAwesomeIcon icon={faGraduationCap} size="xs" className="icon" />
         <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
-        </div>
-      </div>
-      <div className="container right">
-        <div className="date">01 Jan</div>
-        <i className="icon fa fa-certificate"></i>
-        <div className="content">
-          <h2>Lorem ipsum dolor sit amet</h2>
-          <p>
-            Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus erat
-            sagittis non. Ut blandit semper pretium.
-          </p>
+          <h2>Mustafa Kemal University</h2>
+          <h3>Computer Engineering</h3>
         </div>
       </div>
     </div>

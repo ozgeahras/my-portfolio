@@ -49,22 +49,28 @@
 
 .resume {
   border: solid 1px;
-  padding: 15px;
+  padding: 10px 15px;
   border-radius: 22px;
 }
 
-@media only screen and (max-width: 600px) {
-  /* Navbar for small screens */
+@media screen and (max-width: 600px) {
   .navbar {
     flex-direction: column;
-    justify-content: center;
     height: auto;
+    padding: 20px 10px;
   }
 
   .navbar-logo,
-  .logo-container,
-  .navbar__list {
+  .logo-container {
     margin: 0;
+    margin-bottom: 10px;
+  }
+
+  .navbar__list {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
   }
 
   .navbar__item {

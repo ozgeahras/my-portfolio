@@ -10,10 +10,16 @@ function About() {
         <h1>About Me</h1>
         <div className="about-section">
           <div className="about-section-p">
-            <p>Lorem ipsum dolor sit amet, consectetur . </p>
-            <p>Vestibulum in augue vitae ante efficitur mattis. </p>
-            <p>Fusce sodales ultrices tortor, sit amet hendrerit. </p>
-            <p>Quisque eu odio ut enim bibendum mollis in</p>
+            <p>
+              My name is Özge and I'm currently living in Istanbul. I work as a
+              frontend developer and I'm passionate about building engaging user
+              interfaces. Currently, I'm focusing on learning ReactJS and
+              improving my skills with this popular JavaScript library. At work,
+              I also use AngularJS and Java to develop web applications. I love
+              learning and staying up-to-date with the latest technologies and
+              trends in the frontend development world, and I strive to improve
+              myself every day.
+            </p>
           </div>
           <div className="about-image">
             <img src={profilePicture} alt="Profile" />
