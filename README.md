@@ -23,7 +23,7 @@
 ### Links & Demo
 
 - [Github Repo](https://github.com/ozgeahras/my-portfolio)
-- [Demo](https://ozgeahras.github.io/my-portfolio/)
+- [Demo](https://my-portfolio-3ew.pages.dev/)
 - [Portfolio](https://ozgeahras.com)
 
 ## Author
