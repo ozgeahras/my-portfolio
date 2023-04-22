@@ -4,7 +4,7 @@ export default [
     title: "Airbnb Clone",
     source: "https://github.com/ozgeahras/airbnb-online-experiences-clone",
     demo: "https://ozgeahras.github.io/airbnb-online-experiences-clone/",
-    image: "/assets/airbnb-clone.PNG",
+    image: "/assets/airbnb-clone.png",
     logo: "/assets/logo/react-logo.png",
     tech: "react",
   },
