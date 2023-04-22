@@ -135,7 +135,7 @@ export default [
     title: "To Do App",
     source: "https://github.com/ozgeahras/todo-app",
     demo: "https://ozgeahras.github.io/todo-app/",
-    image: "/assets/todo-app.png",
+    image: "/assets/todo_app.png",
     logo: "/assets/logo/js-logo.png",
     tech: "js",
   },
