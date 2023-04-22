@@ -34,9 +34,13 @@ function Navbar() {
           </Link>
         </li>
         <li className="navbar__item">
-          <Link to="/resume" className="navbar__link resume">
+          <a
+            href="/assets/OzgeAhrasCV.pdf"
+            download
+            className="navbar__link resume"
+          >
             Resume
-          </Link>
+          </a>
         </li>
       </ul>
     </nav>
