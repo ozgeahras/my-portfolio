@@ -3,6 +3,7 @@ import Home from "./components/Home";
 import ReactProjects from "./components/ReactProjects";
 import JavaScriptProjects from "./components/JavaScriptProjects";
 import About from "./components/About";
+import Footer from "./components/Footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/about" element={<About />} />
         </Routes>
       </Router>
+      <Footer />
     </div>
   );
 }
