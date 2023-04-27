@@ -1,5 +1,14 @@
 export default [
   {
+    id: 19,
+    title: "Meme Generator",
+    source: "https://github.com/ozgeahras/meme-generator-with-react",
+    demo: "https://ozgeahras.github.io/meme-generator-with-react/",
+    image: "/assets/meme-generator-with-react.png",
+    logo: "/assets/logo/react-logo.png",
+    tech: "react",
+  },
+  {
     id: 18,
     title: "Airbnb Clone",
     source: "https://github.com/ozgeahras/airbnb-online-experiences-clone",
