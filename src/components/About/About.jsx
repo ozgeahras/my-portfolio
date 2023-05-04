@@ -1,7 +1,7 @@
 import React from "react";
 import "../About/About.css";
 import profilePicture from "../../../public/assets/me.png";
-import VerticalTimeline from "../VerticalTimeline/VerticalTimeline";
+import VerticalTimeline from "../VerticalTimeline/VerticalTimeline.jsx";
 
 function About() {
   return (

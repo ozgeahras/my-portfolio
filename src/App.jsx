@@ -1,9 +1,9 @@
-import Navbar from "./components/Navbar/Navbar";
-import Home from "./components/Home/Home";
-import ReactProjects from "./components/ReactProjects/ReactProjects";
-import JavaScriptProjects from "./components/JavaScriptProjects/JavaScriptProjects";
-import About from "./components/About/About";
-import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar.jsx";
+import Home from "./components/Home/Home.jsx";
+import ReactProjects from "./components/ReactProjects/ReactProjects.jsx";
+import JavaScriptProjects from "./components/JavaScriptProjects/JavaScriptProjects.jsx";
+import About from "./components/About/About.jsx";
+import Footer from "./components/Footer/Footer.jsx";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
