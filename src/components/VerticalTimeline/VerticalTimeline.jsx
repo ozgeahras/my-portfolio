@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/VerticalTimeline.css";
+import "../VerticalTimeline/VerticalTimeline.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGraduationCap,

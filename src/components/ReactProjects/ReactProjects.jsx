@@ -1,10 +1,11 @@
 import React, { useState } from "react";
-import Card from "./Card";
-import allData from "../data.js";
-import "../App.css";
+import Card from "../Card/Card";
+import allData from "../../data";
 
-function Home() {
-  const [data, setData] = useState(allData);
+function ReactProjects() {
+  const [data, setData] = useState(
+    allData.filter((item) => item.tech.includes("react"))
+  );
 
   return (
     <div className="card-container">
@@ -22,4 +23,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default ReactProjects;

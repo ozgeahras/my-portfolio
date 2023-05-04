@@ -1,0 +1,63 @@
+/* About Me */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.about-content {
+  max-width: 1000px;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+
+.about-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-section-p {
+  flex: 1;
+  line-height: 37px;
+  font-size: 22px;
+}
+
+.about-image {
+  flex: 1;
+  max-width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-image img {
+  width: 70%;
+  max-width: 300px;
+  height: auto; /* added to maintain aspect ratio */
+  border-radius: 0.5rem; /* make the image square */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 768px) {
+  .about-content {
+    max-width: 100%;
+    margin-top: 12rem;
+  }
+
+  .about-section {
+    flex-direction: column;
+  }
+
+  .about-section-p {
+    width: 100%;
+  }
+
+  .about-image {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}

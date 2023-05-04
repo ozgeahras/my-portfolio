@@ -1,11 +1,10 @@
 import React, { useState } from "react";
-import Card from "./Card";
-import allData from "../data";
-import "../App.css";
+import Card from "../Card/Card.jsx";
+import allData from "../../data";
 
-function ReactProjects() {
+function JavaScriptProjects() {
   const [data, setData] = useState(
-    allData.filter((item) => item.tech.includes("react"))
+    allData.filter((item) => item.tech.includes("js"))
   );
 
   return (
@@ -24,4 +23,4 @@ function ReactProjects() {
   );
 }
 
-export default ReactProjects;
+export default JavaScriptProjects;

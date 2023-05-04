@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../App.css";
+import "../Card/Card.css";
 
 function Card({ title, image, logo, source, demo }) {
   const [hovered, setHovered] = useState(false);
