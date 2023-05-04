@@ -1,5 +1,14 @@
 export default [
   {
+    id: 20,
+    title: "Notes App",
+    source: "https://github.com/ozgeahras/notes-app-with-react",
+    demo: "https://ozgeahras.github.io/notes-app-with-react/",
+    image: "/assets/notes-app-with-react.png",
+    logo: "/assets/logo/react-logo.png",
+    tech: "react",
+  },
+  {
     id: 19,
     title: "Meme Generator",
     source: "https://github.com/ozgeahras/meme-generator-with-react",
