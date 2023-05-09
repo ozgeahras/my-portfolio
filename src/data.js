@@ -1,5 +1,14 @@
 export default [
   {
+    id: 21,
+    title: "Tenzies Game",
+    source: "https://github.com/ozgeahras/tenzies-game-react",
+    demo: "https://ozgeahras.github.io/tenzies-game-react/",
+    image: "/assets/tenzies-game-react.png",
+    logo: "/assets/logo/react-logo.png",
+    tech: "react",
+  },
+  {
     id: 20,
     title: "Notes App",
     source: "https://github.com/ozgeahras/notes-app-with-react",
