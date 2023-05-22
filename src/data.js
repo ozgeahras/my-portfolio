@@ -1,5 +1,14 @@
 export default [
   {
+    id: 22,
+    title: "Movie Idea Creator - OpenAI",
+    source: "https://github.com/ozgeahras/movie-creator-with-OpenAI",
+    demo: "https://movie-idea-creator-openai.netlify.app/",
+    image: "/assets/movie-generator-with-openai.png",
+    logo: "/assets/logo/js-logo.png",
+    tech: "js",
+  },
+  {
     id: 21,
     title: "Tenzies Game",
     source: "https://github.com/ozgeahras/tenzies-game-react",
