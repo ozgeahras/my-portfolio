@@ -1,6 +1,15 @@
 export default [
   {
     id: 22,
+    title: "Shopping Chart - Mobile App",
+    source: "https://github.com/ozgeahras/shopping-list-mobile-app",
+    demo: "https://add-to-chart.netlify.app/",
+    image: "/assets/shopping-app.png",
+    logo: "/assets/logo/js-logo.png",
+    tech: "js",
+  },
+  {
+    id: 22,
     title: "Movie Idea Creator - OpenAI",
     source: "https://github.com/ozgeahras/movie-creator-with-OpenAI",
     demo: "https://movie-idea-creator-openai.netlify.app/",
