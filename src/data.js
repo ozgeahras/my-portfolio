@@ -1,5 +1,14 @@
 export default [
   {
+    id: 23,
+    title: "Chat GPT 4 ChatBot - Mobile App",
+    source: "https://github.com/ozgeahras/GPT-4-chatbot",
+    demo: "https://wise-owl-openai-chatbot.netlify.app/",
+    image: "/assets/GPT-4-chatbot.png",
+    logo: "/assets/logo/js-logo.png",
+    tech: "js",
+  },
+  {
     id: 22,
     title: "Shopping Chart - Mobile App",
     source: "https://github.com/ozgeahras/shopping-list-mobile-app",
