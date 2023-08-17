@@ -1,6 +1,15 @@
 export default [
   {
-    id: 23,
+    id: 26,
+    title: "Vanlife React App",
+    source: "https://github.com/ozgeahras/vanlife-react-app",
+    demo: "https://vanlife-react-app.netlify.app/",
+    image: "/assets/vanlife.png",
+    logo: "/assets/logo/js-logo.png",
+    tech: "js",
+  },
+  {
+    id: 25,
     title: "Chat GPT 4 ChatBot - Mobile App",
     source: "https://github.com/ozgeahras/GPT-4-chatbot",
     demo: "https://wise-owl-openai-chatbot.netlify.app/",
@@ -9,16 +18,16 @@ export default [
     tech: "js",
   },
   {
-    id: 22,
+    id: 24,
     title: "Shopping Chart - Mobile App",
     source: "https://github.com/ozgeahras/shopping-list-mobile-app",
     demo: "https://add-to-chart.netlify.app/",
     image: "/assets/shopping-app.png",
-    logo: "/assets/logo/js-logo.png",
-    tech: "js",
+    logo: "/assets/logo/react-logo.png",
+    tech: "react",
   },
   {
-    id: 22,
+    id: 23,
     title: "Movie Idea Creator - OpenAI",
     source: "https://github.com/ozgeahras/movie-creator-with-OpenAI",
     demo: "https://movie-idea-creator-openai.netlify.app/",
