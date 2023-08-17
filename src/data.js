@@ -5,8 +5,8 @@ export default [
     source: "https://github.com/ozgeahras/vanlife-react-app",
     demo: "https://vanlife-react-app.netlify.app/",
     image: "/assets/vanlife.png",
-    logo: "/assets/logo/js-logo.png",
-    tech: "js",
+    logo: "/assets/logo/react-logo.png",
+    tech: "react",
   },
   {
     id: 25,
