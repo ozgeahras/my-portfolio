@@ -24,7 +24,7 @@
 
 - [Github Repo](https://github.com/ozgeahras/my-portfolio)
 - [Demo](https://my-portfolio-3ew.pages.dev/)
-- [Portfolio](https://ozgeahras.com)
+- [Portfolio](https://ozgeahras.net)
 
 ## Author
 
